@@ -1,4 +1,4 @@
-# Bicycle-Demand-Monitoring-using-Evidently-Ai
+# Bicycle-Demand-Monitoring-using-Evidently-AI
 
 ## Introduction
 Welcome to the Bicycle Demand Monitoring using Evidently AI project! This repository contains code and resources to help you analyze and monitor bicycle demand using Evidently AI.
@@ -27,7 +27,7 @@ You are provided hourly rental data spanning two years. For this competition, th
 **datetime** - hourly date + timestamp    
 **season** -  1 = spring, 2 = summer, 3 = fall, 4 = winter   
 **holiday** - whether the day is considered a holiday  
-**workingday** - whether the day is neither a weekend nor holiday  
+**workingday** - whether the day is neither a weekend nor a holiday  
 **weather** - 1: Clear, Few clouds, Partly cloudy, Partly cloudy  
 **2**: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist  
 **3**: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds  
