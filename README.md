@@ -57,3 +57,5 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## License
 This project is licensed under the MIT License.
+
+Happy bicycling and demand monitoring! If you have any questions or need assistance, please feel free to reach out to us.
