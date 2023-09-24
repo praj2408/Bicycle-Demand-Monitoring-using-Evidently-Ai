@@ -1,6 +1,17 @@
 # Bicycle-Demand-Monitoring-using-Evidently-Ai
 
+# Introduction
+Welcome to the Bicycle Demand Monitoring using Evidently AI project! This repository contains code and resources to help you analyze and monitor bicycle demand using Evidently AI.
 
+Bicycle demand prediction is crucial for businesses and organizations involved in bike rental services, city planning, and transportation. Evidently AI allows us to create interpretable and actionable reports for our bicycle demand forecasting models, helping us make informed decisions.
+
+# Project Overview
+In this project, we will:
+
+Train a bicycle demand forecasting model.  
+Use Evidently AI to analyze and visualize model performance.  
+Monitor model performance over time.  
+Generate actionable insights from the analysis.  
 
 ## Data Description
 You are provided hourly rental data spanning two years. For this competition, the training set is comprised of the first 19 days of each month, while the test set is the 20th to the end of the month. You must predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
