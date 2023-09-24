@@ -44,15 +44,15 @@ You are provided hourly rental data spanning two years. For this competition, th
 ## Usage
 Follow these steps to use this project:
 
-Train your bicycle demand forecasting model (not provided in this repository). You can use any machine learning library or framework of your choice.  
+- Train your bicycle demand forecasting model (not provided in this repository). You can use any machine learning library or framework of your choice.  
 
-Save the model and its predictions to a directory.  
+- Save the model and its predictions to a directory.  
 
-Run the provided Jupyter notebooks in the notebooks directory to analyze the model performance using Evidently AI. Replace the sample data and model paths with your own.  
+- Run the provided Jupyter notebooks in the notebooks directory to analyze the model performance using Evidently AI. Replace the sample data and model paths with your own.  
 
-Use Evidently AI to monitor your model's performance over time. Set up a schedule for running the analysis to ensure continuous monitoring.  
+- Use Evidently AI to monitor your model's performance over time. Set up a schedule for running the analysis to ensure continuous monitoring.  
 
-Review the generated reports and actionable insights to make data-driven decisions regarding bicycle demand.  
+- Review the generated reports and actionable insights to make data-driven decisions regarding bicycle demand.  
 
 ## Contributing
 If you would like to contribute to this project, please follow these guidelines:
