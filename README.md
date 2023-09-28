@@ -1,5 +1,5 @@
 # Bicycle-Demand-Monitoring-using-Evidently-AI
-
+![](https://github.com/praj2408/Bicycle-Demand-Monitoring-using-Evidently-Ai/blob/main/docs/c9834b93-4b03-4d29-b158-2b9aefe2b59b_1920x1080.jpg)
 ## Introduction
 Welcome to the Bicycle Demand Monitoring using Evidently AI project! This repository contains code and resources to help you analyze and monitor bicycle demand using Evidently AI.
 
